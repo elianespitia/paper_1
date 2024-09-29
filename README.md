@@ -1,1 +1,1 @@
-# paper_1
+# Paper 1 (Spatial Statistics)
